@@ -1,1 +1,19 @@
+# ===
+# Site sharing meta info
+#
+# See https://developers.facebook.com/docs/sharing/webmasters/
+#
+# To set an image for
+# <meta property="og:image" content="...">
+# <meta property="twitter:image" content="...">
+# uncomment the code below:
+
+#defaults:
+#  - scope:
+#      path: ""
+#    values:
+#      image: /assets/images/header.png
+
+# ===
+
 theme: jekyll-theme-architect
